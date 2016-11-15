@@ -1,2 +1,1 @@
-# Devices Configured
-# Personal Server Layout
+# Devices Configured & Personal Server Layout
