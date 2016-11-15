@@ -1,1 +1,2 @@
-# Configurations-and-Layouts-
+# Devices Configured
+# Personal Server Layout
